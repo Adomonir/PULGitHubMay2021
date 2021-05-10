@@ -13,7 +13,7 @@ namespace PartsUnlimited.Controllers
     [Authorize]
     public class AccountController : Controller
     {
-        //my first change
+        //my second change
         private SignInManager<ApplicationUser, string> SignInManager
         {
             get
